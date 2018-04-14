@@ -28,9 +28,9 @@ acromantula:
         acromantula_spit: 20
         acromantula_webbing: 10
 
-# Queen Acromantula
+# Acromantula Queen
 
-queen_acromantula:
+acromantula_queen:
   type: SPIDER
   name: '&2Queen Acromantula'
   health: 60

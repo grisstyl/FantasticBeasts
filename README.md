@@ -20,6 +20,9 @@ This is user *Tyler#6978*'s entry to RPG MC Central's 2018 config contest under 
 
 The following beasts are featured in this configuration:
 
+* Acromantula Underling
+* Acromantula
+* Acromantula Queen
 * Ashwinder
 
 ## Need support?
