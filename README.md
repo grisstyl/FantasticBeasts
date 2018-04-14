@@ -40,6 +40,13 @@ The following beasts are featured in this configuration:
 * Phoenix
 * Wampus
 
+## Items
+
+This configuration adds a couple of items which can be obtained by hunting down their respective mobs.
+
+* Erkling Dart Blower - Shoots five different darts - Obtained from an Erkling
+* Erumpent Horn - Explosive horn which can channel the Erumpent's power temporarily - Obtained rarely from Erumpent
+
 ## Need support?
 
 * For Magic support, visit the [RPG MC Central Discord](https://discord.gg/KG8Tr4b) or ask on the [Magic thread](https://www.spigotmc.org/threads/magic.28645/)
