@@ -101,8 +101,6 @@ ashwinder:
   potion_effects:
     - type: fire_resistance
       amplifier: 255
-    - type: speed
-      amplifier: 1
   interval: 3000
   triggers:
     interval:
