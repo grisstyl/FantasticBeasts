@@ -17,6 +17,9 @@ spells:
   ashwinder_burn:
     name: "Ashwinder Burn"
     description: "Causes a fire"
+  augurey_death:
+    name: "Augurey Death"
+    description: "Screeches, changes weather, and causes death to those who bear witness"
 
 categories:
   beast_ability:
