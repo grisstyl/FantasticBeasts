@@ -41,6 +41,9 @@ spells:
   crup_pet:
     name: "Pet the Crup"
     description: "Pet the doggy"
+  demiguise_disappear:
+    name: "Demiguise Disappear"
+    description: "Disappear into thin air"
 
 categories:
   beast_ability:

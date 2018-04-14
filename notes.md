@@ -1,7 +1,5 @@
 # Mobs
 
-* Demiguise - Bunnies - go invisible occasionally
-
 * Diricawl - Parrot - can teleport when attacked
 
 * Erkling - Skeleton - shoot toxin arrows at enemies

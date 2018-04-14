@@ -12,7 +12,7 @@ This is user *Tyler#6978*'s entry to RPG MC Central's 2018 config contest under 
 * Grab your copy of [Magic](https://www.spigotmc.org/resources/magic.1056/).
 * Place the JAR into your `/plugins/` folder and restart your server.
 * Verify you have installed the latest version of Magic by performing `/magic`.
-* Place the contents of the latest BetterPotter files into your `/plugins/Magic/` folder, replacing any existing contents.
+* Place the contents of the latest FantasticBeasts files into your `/plugins/Magic/` folder, replacing any existing contents.
 * Restart your server once more.
 * Configure to your liking!
 
@@ -29,6 +29,7 @@ The following beasts are featured in this configuration:
 * Bundimum
 * Centaur
 * Crup
+* Demiguise
 
 ## Need support?
 
