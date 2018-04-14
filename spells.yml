@@ -1,6 +1,7 @@
 ashwinder_ambient:
   icon: fire
   category: specialty
+  hidden: true
   effects:
     cast:
       - class: EffectSingle
