@@ -1,11 +1,12 @@
 ashwinder_ambient:
   icon: fire
-  category: specialty
+  category: beast_ability
   hidden: true
   effects:
     cast:
       - class: EffectSingle
         source_location: feet
+        sound: entity_blaze_ambient
         effectlib:
           class: AtomEffect
           particle_nucleus: flame
@@ -30,6 +31,7 @@ ashwinder_summon:
     cast:
       - class: SpawnEntity
   parameters:
+    set_target: true
     type: ashwinder
     target: self
     amount: 2
@@ -37,3 +39,6 @@ ashwinder_summon:
 ashwinder_summon|2:
   parameters:
     amount: 3
+
+ashwinder_burn:
+  inherit: incendio

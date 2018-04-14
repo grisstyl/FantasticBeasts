@@ -1,0 +1,51 @@
+# Acromantula Underling
+
+acromantula_underling:
+  type: CAVE_SPIDER
+  name: '&2Acromantula Underling'
+  health: 10
+  default_drops: false
+  potion_effects:
+    - type: SPEED
+      amplifier: 2
+  triggers:
+    damage:
+      cast:
+        none: 60
+        acromantula_spit: 10
+
+# Acromantula
+
+acromantula:
+  type: CAVE_SPIDER
+  name: '&2Acromantula'
+  health: 30
+  default_drops: false
+  triggers:
+    damage:
+      cast:
+        none: 60
+        acromantula_spit: 20
+        acromantula_webbing: 10
+
+# Queen Acromantula
+
+queen_acromantula:
+  type: SPIDER
+  name: '&2Queen Acromantula'
+  health: 60
+  default_drops: false
+  interval: 5000
+  potion_effects:
+    - type: SLOWNESS
+      amplifier: 1
+  triggers:
+    interval:
+      cast:
+        none: 60
+        acromantula_summon: 30
+    damage:
+      cast:
+        none: 60
+        acromantula_spit|2: 20
+        acromantula_webbing|2: 10

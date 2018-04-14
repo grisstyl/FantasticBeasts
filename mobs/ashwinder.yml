@@ -1,4 +1,4 @@
-# Mobs
+# Ashwinder
 
 ashwinder:
   type: SILVERFISH
@@ -19,6 +19,6 @@ ashwinder:
     damage:
       cast:
         none: 60
-        incendio: 25
-        incendio|2: 10
-        incendio|3: 5
+        ashwinder_burn: 25
+        ashwinder_burn|2: 10
+        ashwinder_burn|3: 5
