@@ -28,6 +28,7 @@ The following beasts are featured in this configuration:
 * Bowtruckle
 * Bundimum
 * Centaur
+* Crup
 
 ## Need support?
 
