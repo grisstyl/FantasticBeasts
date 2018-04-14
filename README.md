@@ -27,6 +27,7 @@ The following beasts are featured in this configuration:
 * Augurey
 * Bowtruckle
 * Bundimum
+* Centaur
 
 ## Need support?
 

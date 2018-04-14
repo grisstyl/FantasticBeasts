@@ -1,7 +1,5 @@
 # Mobs
 
-* Centaur - Horse - can fire arrows
-
 * Crups - Dogs - peaceful
 
 * Demiguise - Bunnies - go invisible occasionally
