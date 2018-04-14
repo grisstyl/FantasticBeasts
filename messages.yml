@@ -29,6 +29,9 @@ spells:
   bowtruckle_shield:
     name: "Bowtruckle Shield"
     description: "Conjures a wooden shield"
+  bundimum_summon:
+    name: "Bundimum Summon"
+    description: "Summons more Bundimum"
 
 categories:
   beast_ability:
