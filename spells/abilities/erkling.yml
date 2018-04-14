@@ -1,6 +1,6 @@
 erkling_dart:
   inherit: arrow
-  icon: diamond_axe:57
+  icon: diamond_axe:242
   quick_cast: true
   actions:
     cast:
