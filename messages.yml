@@ -74,6 +74,12 @@ spells:
   fire_crab_ambient:
     name: "Fire Crab Ambient"
     description: "Ambient effect for fire crabs"
+  fwooper_death:
+    name: "Fwooper Death"
+    description: "Sounds off every noise it ever heard, causing mass confusion and hinderance"
+  wampus_scratch:
+    name: "Wampus Scratch"
+    description: "Deadly, magical claw scratches leave you bleeding"
 
 wands:
   erkling_dart_blower:

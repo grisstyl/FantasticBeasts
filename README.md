@@ -32,7 +32,9 @@ The following beasts are featured in this configuration:
 * Demiguise
 * Erkling
 * Erumpent
-* Fire crab
+* Fire Crab
+* Fwooper
+* Wampus
 
 ## Need support?
 
