@@ -37,6 +37,7 @@ The following beasts are featured in this configuration:
 * Fwooper
 * Kneazle
 * Kneazle Kitten
+* Phoenix
 * Wampus
 
 ## Need support?

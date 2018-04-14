@@ -77,6 +77,12 @@ spells:
   fwooper_death:
     name: "Fwooper Death"
     description: "Sounds off every noise it ever heard, causing mass confusion and hinderance"
+  phoenix_ambient:
+    name: "Phoenix Ambient"
+    description: "Unused"
+  phoenix_death:
+    name: "Phoenix Death"
+    description: "From the ashes, reborn."
   wampus_scratch:
     name: "Wampus Scratch"
     description: "Deadly, magical claw scratches leave you bleeding"
