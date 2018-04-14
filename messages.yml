@@ -79,6 +79,9 @@ wands:
   erkling_dart_blower:
     name: "&2Erkling Dart Blower"
     description: "&aA dart blower stolen from an erkling"
+  erumpent_horn:
+    name: "&4Erumpent Horn"
+    description: "&cA Class-B tradeable material. Highly explosive."
 
 categories:
   beast_ability:

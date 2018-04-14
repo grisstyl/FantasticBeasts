@@ -6,6 +6,8 @@ erumpent:
   health: 75
   default_drops: false
   interval: 2000
+  drops:
+    - erumpent_horn
   triggers:
     interval:
       cast:
@@ -13,4 +15,5 @@ erumpent:
         erumpent_attack: 25
     death:
       cast:
-        erumpent_death: 100
+        none: 20
+        erumpent_death: 80
