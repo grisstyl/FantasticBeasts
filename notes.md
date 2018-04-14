@@ -1,7 +1,5 @@
 # Mobs
 
-* Bowtruckle - Baby zombie - throws wood at you, can open doors?
-
 * Bundimum - Slime - very slow, multiply extremely quickly, can collapse ground if there are enough, very low health and vulnerable to fire or magic
 
 * Centaur - Horse - can fire arrows
