@@ -29,11 +29,14 @@ The following beasts are featured in this configuration:
 * Bundimum
 * Centaur
 * Crup
+* Crup Puppies
 * Demiguise
 * Erkling
 * Erumpent
 * Fire Crab
 * Fwooper
+* Kneazle
+* Kneazle Kitten
 * Wampus
 
 ## Need support?

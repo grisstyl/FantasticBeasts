@@ -1,7 +1,5 @@
 # Mobs
 
-* Kneazle - Cat - just kind of walks around
-
 * Phoenix - Parrot - when it dies it explodes in fire and respawns
 
 * Thestral - Skeletal horse - disappears and reappears occasionally but are docile
