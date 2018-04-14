@@ -1,7 +1,5 @@
 # Mobs
 
-* Fire crab - Spider - can do fire crab things, light stuff on fire
-
 * Fwooper - Parrot - can make a lot of noise, dizzying the target and impairing them
 
 * Giant - Giant - incredibly strong but very slow, can leap into the air and smash the ground
