@@ -6,7 +6,7 @@
 # To see the current default builtin configs, look in this folder:
 # https://github.com/elBukkit/MagicPlugin/tree/master/Magic/src/main/resources/defaults/mobs
 #
-# For customization help see: 
+# For customization help see:
 # https://github.com/elBukkit/MagicPlugin/wiki/Customization
 #
 #
@@ -24,7 +24,7 @@
 # Note that a "#" character means the line is commented out and has no effect.
 # Make sure to not comment out the lines you add, there should not be a space in front of the name, indentation is important.
 # Use http://www.yamllint.com if you have issues with your config, make sure not to use tabs!
-# 
+#
 
 # Add a disguised mob type (requires LibsDisguises plugin!)
 # cowlock:
@@ -35,3 +35,85 @@
 #   disguise:
 #     type: cow
 
+# Disabled
+
+dark_spider:
+  enabled: false
+
+dark_wizard:
+  enabled: false
+
+dummy:
+  enabled: false
+
+dummynoai:
+  enabled: false
+
+killer_bunny:
+  enabled: false
+
+kingslime:
+  enabled: false
+
+madscientist:
+  enabled: false
+
+mega_spider:
+  enabled: false
+
+mutant:
+  enabled: false
+
+mutant_captain:
+  enabled: false
+
+mutant_spider:
+  enabled: false
+
+polterghast:
+  enabled: false
+
+undead_minion:
+  enabled: false
+
+undead_overlord:
+  enabled: false
+
+warlock:
+  enabled: false
+
+fire_elemental:
+  enabled: false
+
+deathereater:
+  enabled: false
+
+dementor:
+  enabled: false
+
+# Mobs
+
+ashwinder:
+  type: SILVERFISH
+  name: '&4Ashwinder'
+  health: 40
+  default_drops: false
+  potion_effects:
+    - type: fire_resistance
+      amplifier: 255
+    - type: speed
+      amplifier: 1
+  interval: 3000
+  triggers:
+    interval:
+      cast:
+        none: 10
+        ashwinder_ambient: 40
+        ashwinder_summon: 10
+        ashwinder_summon|2: 5
+    damage:
+      cast:
+        none: 60
+        incendio: 25
+        incendio|2: 10
+        incendio|3: 5
