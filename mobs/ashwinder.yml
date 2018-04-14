@@ -1,0 +1,24 @@
+# Mobs
+
+ashwinder:
+  type: SILVERFISH
+  name: '&4Ashwinder'
+  health: 40
+  default_drops: false
+  potion_effects:
+    - type: fire_resistance
+      amplifier: 255
+  interval: 1000
+  triggers:
+    interval:
+      cast:
+        none: 10
+        ashwinder_ambient: 80
+        ashwinder_summon: 8
+        ashwinder_summon|2: 5
+    damage:
+      cast:
+        none: 60
+        incendio: 25
+        incendio|2: 10
+        incendio|3: 5
