@@ -32,6 +32,12 @@ spells:
   bundimum_summon:
     name: "Bundimum Summon"
     description: "Summons more Bundimum"
+  centaur_arrow:
+    name: "Centaur Arrow"
+    description: "Shoots a deadly projectile"
+  centaur_heal:
+    name: "Centaur Heal"
+    description: "Heals quickly"
 
 categories:
   beast_ability:
