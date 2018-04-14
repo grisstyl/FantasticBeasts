@@ -1,0 +1,32 @@
+# Bundimum
+
+bundimum:
+  name: '&2Bundimum'
+  type: SLIME
+  size: 2
+  health: 30
+  default_drops: false
+  weakness:
+    fire: 0.8
+    magic: 0.2
+  triggers:
+    damage:
+      cast:
+        none: 90
+        bundimum_summon: 10
+
+huge_bundimum:
+  name: '&2Huge Bundimum'
+  type: SLIME
+  size: 4
+  health: 50
+  default_drops: false
+  interval: 2000
+  weakness:
+    fire: 0.6
+    magic: 0.2
+  triggers:
+    damage:
+      cast:
+        none: 85
+        bundimum_summon: 15
