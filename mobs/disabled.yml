@@ -48,7 +48,7 @@ warlock:
 fire_elemental:
   enabled: false
 
-deathereater:
+deatheater:
   enabled: false
 
 dementor:
