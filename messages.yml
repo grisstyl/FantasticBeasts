@@ -20,6 +20,15 @@ spells:
   augurey_death:
     name: "Augurey Death"
     description: "Screeches, changes weather, and causes death to those who bear witness"
+  bowtruckle_tree:
+    name: "Bowtruckle Tree"
+    description: "Captures the target in the Bowtruckle's domain"
+  bowtruckle_wood_throw:
+    name: "Bowtruckle Wood Throw"
+    description: "Throws damaging wood pieces"
+  bowtruckle_shield:
+    name: "Bowtruckle Shield"
+    description: "Conjures a wooden shield"
 
 categories:
   beast_ability:
