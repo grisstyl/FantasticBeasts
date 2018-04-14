@@ -101,13 +101,13 @@ ashwinder:
   potion_effects:
     - type: fire_resistance
       amplifier: 255
-  interval: 3000
+  interval: 1000
   triggers:
     interval:
       cast:
         none: 10
-        ashwinder_ambient: 40
-        ashwinder_summon: 10
+        ashwinder_ambient: 80
+        ashwinder_summon: 8
         ashwinder_summon|2: 5
     damage:
       cast:

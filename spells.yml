@@ -10,20 +10,21 @@ ashwinder_ambient:
           particle_nucleus: flame
           particle_orbital: flame
           iterations: 16
+          radius: 0.3
+      - class: EffectSingle
+        source_location: feet
+        effectlib:
+          class: AtomEffect
+          particle_nucleus: smoke
+          particle_orbital: smoke
+          iterations: 16
           radius: 0.8
   parameters:
     target: self
     cooldown: 0
 
 ashwinder_summon:
-  icon: fire
-  category: specialty
-  effects:
-    cast:
-      - class: EffectSingle
-        firework: burst
-        color: e38d1b
-        location: origin
+  inherit: ashwinder_ambient
   actions:
     cast:
       - class: SpawnEntity
