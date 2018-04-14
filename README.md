@@ -31,6 +31,7 @@ The following beasts are featured in this configuration:
 * Crup
 * Demiguise
 * Erkling
+* Erumpent
 
 ## Need support?
 

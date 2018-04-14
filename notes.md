@@ -1,7 +1,5 @@
 # Mobs
 
-* Erumpent - Polar bear - Can cast explosions and maybe glow?
-
 * Fire crab - Spider - can do fire crab things, light stuff on fire
 
 * Fwooper - Parrot - can make a lot of noise, dizzying the target and impairing them
@@ -18,4 +16,5 @@
 
 # Other ideas
 
+* Erumpent horn items, etc. which can cast their abilities
 * Attributes for taming and stuff like that
