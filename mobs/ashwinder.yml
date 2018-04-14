@@ -18,9 +18,9 @@ ashwinder:
     interval2:
       type: interval
       cast:
-        none: 80
-        ashwinder_summon: 8
-        ashwinder_summon|2: 5
+        none: 90
+        ashwinder_summon: 5
+        ashwinder_summon|2: 1
     damage:
       cast:
         none: 60
