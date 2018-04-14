@@ -38,6 +38,9 @@ spells:
   centaur_heal:
     name: "Centaur Heal"
     description: "Heals quickly"
+  crup_pet:
+    name: "Pet the Crup"
+    description: "Pet the doggy"
 
 categories:
   beast_ability:
