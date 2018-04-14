@@ -2,7 +2,7 @@
 
 demiguise:
   name: '&fDemiguise'
-  type: RABBIT
+  type: rabbit
   health: 50
   default_drops: false
   triggers:

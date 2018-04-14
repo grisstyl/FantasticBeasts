@@ -2,7 +2,7 @@
 
 erkling:
   name: '&2Erkling'
-  type: SKELETON
+  type: skeleton
   health: 30
   default_drops: false
   helmet: leaves

@@ -1,7 +1,7 @@
 # Ashwinder
 
 ashwinder:
-  type: SILVERFISH
+  type: silverfish
   name: '&4Ashwinder'
   health: 40
   default_drops: false

@@ -2,7 +2,7 @@
 
 bundimum:
   name: '&2Bundimum'
-  type: SLIME
+  type: slime
   size: 2
   health: 30
   default_drops: false
@@ -17,7 +17,7 @@ bundimum:
 
 huge_bundimum:
   name: '&2Huge Bundimum'
-  type: SLIME
+  type: slime
   size: 4
   health: 50
   default_drops: false

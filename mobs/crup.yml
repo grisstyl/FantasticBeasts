@@ -6,9 +6,11 @@ crup_puppy:
   tamed: true
   baby: true
   interact_spell: crup_pet
+  default_drops
 
 crup:
   name: '&cCrup'
   type: WOLF
   tamed: true
   interact_spell: crup_pet
+  default_drops: false

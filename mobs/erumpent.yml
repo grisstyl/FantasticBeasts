@@ -2,7 +2,7 @@
 
 erumpent:
   name: '&7Erumpent'
-  type: POLAR_BEAR
+  type: polar_bear
   health: 75
   default_drops: false
   interval: 2000

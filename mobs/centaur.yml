@@ -2,7 +2,7 @@
 
 centaur:
   name: '&7Centaur'
-  type: HORSE
+  type: horse
   health: 100
   default_drops: false
   aggro: true

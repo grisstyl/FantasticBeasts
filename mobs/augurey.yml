@@ -2,7 +2,7 @@
 
 augurey:
   name: '&bAugurey'
-  type: PARROT
+  type: parrot
   default_drops: false
   triggers:
     death:

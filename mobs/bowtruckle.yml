@@ -6,6 +6,7 @@ bowtruckle:
   baby: true
   health: 30
   interval: 3000
+  default_drops: false
   triggers:
     interval:
       cast:
