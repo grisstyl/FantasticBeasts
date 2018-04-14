@@ -1,9 +1,5 @@
 # Mobs
 
-* Diricawl - Parrot - can teleport when attacked
-
-* Erkling - Skeleton - shoot toxin arrows at enemies
-
 * Erumpent - Polar bear - Can cast explosions and maybe glow?
 
 * Fire crab - Spider - can do fire crab things, light stuff on fire

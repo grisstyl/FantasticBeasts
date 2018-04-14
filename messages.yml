@@ -44,6 +44,26 @@ spells:
   demiguise_disappear:
     name: "Demiguise Disappear"
     description: "Disappear into thin air"
+  erkling_dart:
+    name: "Erkling Dart"
+    description: "A erkling-crafted projectile"
+  erkling_poisoned_dart:
+    name: "Erkling Dart of Poison"
+    description: "A poison-tipped projectile crafted by erklings"
+  erkling_freezing_dart:
+    name: "Erkling Dart of Freezing"
+    description: "A projectile crafted by erklings for slowing down prey"
+  erkling_flaming_dart:
+    name: "Erkling Dart of Fire"
+    description: "A burning-hot projectile crafted by erklings"
+  erkling_weakening_dart:
+    name: "Erkling Dart of Weakening"
+    description: "A tipped projectile crafted by erklings designed to expose prey"
+
+wands:
+  erkling_dart_blower:
+    name: "&2Erkling Dart Blower"
+    description: "&aA dart blower stolen from an erkling"
 
 categories:
   beast_ability:

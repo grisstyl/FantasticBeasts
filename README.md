@@ -30,6 +30,7 @@ The following beasts are featured in this configuration:
 * Centaur
 * Crup
 * Demiguise
+* Erkling
 
 ## Need support?
 

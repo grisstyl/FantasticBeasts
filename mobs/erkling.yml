@@ -1,0 +1,24 @@
+# Erkling
+
+erkling:
+  name: '&2Erkling'
+  type: SKELETON
+  health: 30
+  default_drops: false
+  helmet: leaves
+  cast_requires_item: true
+  drops:
+    - erkling_dart_blower
+  interval: 4000
+  potion_effects:
+    - type: slowness
+      amplifier: 2
+  triggers:
+    interval:
+      cast:
+        none: 20
+        erkling_dart: 30
+        erkling_poisoned_dart: 15
+        erkling_freezing_dart: 15
+        erkling_flaming_dart: 15
+        erkling_weakening_dart: 15
