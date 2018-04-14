@@ -16,7 +16,13 @@ This is user *Tyler#6978*'s entry to RPG MC Central's 2018 config contest under 
 * Restart your server once more.
 * Configure to your liking!
 
-### Need support?
+## Beasts Featured
+
+The following beasts are featured in this configuration:
+
+* Ashwinder
+
+## Need support?
 
 * For Magic support, visit the [RPG MC Central Discord](https://discord.gg/KG8Tr4b) or ask on the [Magic thread](https://www.spigotmc.org/threads/magic.28645/)
 * For FantasticBeasts config support, message me on Discord @ *Tyler#6978*
