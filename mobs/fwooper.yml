@@ -1,7 +1,7 @@
-# Augurey
+# Fwooper
 
-augurey:
-  name: '&bAugurey'
+fwooper:
+  name: '&dFwooper'
   type: parrot
   health: 10
   default_drops: false
@@ -9,4 +9,4 @@ augurey:
     death:
       cast:
         none: 50
-        augurey_death: 50
+        fwooper_death: 50

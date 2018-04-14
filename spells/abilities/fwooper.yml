@@ -1,18 +1,13 @@
-augurey_death:
-  icon: water
+fwooper_death:
+  icon: feather
   category: beast_ability
   hidden: true
   actions:
     cast:
-      - class: Weather
       - class: AreaOfEffect
         actions:
           - class: Message
           - class: PotionEffect
-          - class: Delay
-          - class: Kill
-      - class: Weather
-        weather: clear
   effects:
     cast:
       - class: EffectSingle
@@ -23,11 +18,11 @@ augurey_death:
           class: SphereEffect
           radius: 1
           radiusIncrease: 0.2
-          particle: water_wake
+          particle: spell_mob
+          color: cf40c0
           particles: 100
   parameters:
     cooldown: 0
-    weather: storm
     delay: 8000
     radius: 12
     y_radius: 6
@@ -35,8 +30,7 @@ augurey_death:
     target_source: false
     message_type: title
     message_target: true
-    effect_slow: 2
-    effect_confusion: 2
-    duration: 8000
-    message: "&bThe Augurey's cry"
-    sub_message: "&3A sign of impending death"
+    effect_slow: 3
+    effect_confusion: 5
+    duration: 20000
+    message: "&dThe Fwooper's death cry is hindering"

@@ -14,5 +14,5 @@
 
 # Other ideas
 
-* Erumpent horn items, etc. which can cast their abilities
+* More items from mobs
 * Attributes for taming and stuff like that
