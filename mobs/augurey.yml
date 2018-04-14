@@ -1,0 +1,11 @@
+# Augurey
+
+augurey:
+  name: '&bAugurey'
+  type: PARROT
+  default_drops: false
+  triggers:
+    death:
+      cast:
+        none: 50
+        augurey_death: 50

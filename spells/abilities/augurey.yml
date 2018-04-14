@@ -1,0 +1,41 @@
+augurey_death:
+  icon: water
+  category: beast_ability
+  hidden: true
+  actions:
+    cast:
+      - class: Weather
+      - class: AreaOfEffect
+        actions:
+          - class: Message
+          - class: PotionEffect
+          - class: Delay
+          - class: Kill
+      - class: Weather
+        weather: clear
+  effects:
+    cast:
+      - class: EffectSingle
+        source_location: feet
+        location: origin
+        sound: entity_parrot_death
+        effectlib:
+          class: SphereEffect
+          radius: 3
+          radiusIncrease: 0.3
+          particle: water_wake
+  parameters:
+    cooldown: 0
+    weather: storm
+    delay: 8000
+    radius: 12
+    y_radius: 6
+    target: self
+    target_source: false
+    message_type: title
+    message_target: true
+    stay: 8000
+    effect_slowness: 2
+    effect_confusion: 2
+    duration: 8000
+    message: "&bThe Augery's cry is deafening"

@@ -24,6 +24,7 @@ The following beasts are featured in this configuration:
 * Acromantula
 * Acromantula Queen
 * Ashwinder
+* Augurey
 
 ## Need support?
 

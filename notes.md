@@ -1,11 +1,5 @@
 # Mobs
 
-* Acromantula - Cave spiders - fast, spits poisonous venom
-
-* Queen acromantula - Spiders - slower but stronger, spits strong venoms which can impair you and shoot webs which can stick you
-
-* Augurey - Parrot - can kill you, make it rain, etc. as chance ability
-
 * Bowtruckle - Baby zombie - throws wood at you, can open doors?
 
 * Bundimum - Slime - very slow, multiply extremely quickly, can collapse ground if there are enough, very low health and vulnerable to fire or magic
