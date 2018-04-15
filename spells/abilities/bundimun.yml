@@ -1,4 +1,4 @@
-bundimum_summon:
+bundimun_summon:
   icon: slime_block
   category: beast_ability
   hidden: true
@@ -20,8 +20,8 @@ bundimum_summon:
   parameters:
     set_target: true
     entity_types:
-      huge_bundimum: 10
-      bundimum: 20
+      huge_bundimun: 10
+      bundimun: 20
     target: self
     cooldown: 0
     amount: 2

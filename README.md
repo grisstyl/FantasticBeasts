@@ -26,7 +26,7 @@ The following beasts are featured in this configuration:
 * Ashwinder
 * Augurey
 * Bowtruckle
-* Bundimum
+* Bundimun
 * Centaur
 * Crup
 * Crup Puppies

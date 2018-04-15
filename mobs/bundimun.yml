@@ -1,7 +1,7 @@
-# Bundimum
+# Bundimun
 
-bundimum:
-  name: '&2Bundimum'
+bundimun:
+  name: '&2Bundimun'
   type: slime
   size: 2
   health: 30
@@ -13,10 +13,10 @@ bundimum:
     damage:
       cast:
         none: 90
-        bundimum_summon: 10
+        bundimun_summon: 10
 
-huge_bundimum:
-  name: '&2Huge Bundimum'
+huge_bundimun:
+  name: '&2Huge Bundimun'
   type: slime
   size: 4
   health: 50
@@ -29,4 +29,4 @@ huge_bundimum:
     damage:
       cast:
         none: 85
-        bundimum_summon: 15
+        bundimun_summon: 15

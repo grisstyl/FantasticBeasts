@@ -29,9 +29,9 @@ spells:
   bowtruckle_shield:
     name: "Bowtruckle Shield"
     description: "Conjures a wooden shield"
-  bundimum_summon:
-    name: "Bundimum Summon"
-    description: "Summons more Bundimum"
+  bundimun_summon:
+    name: "Bundimun Summon"
+    description: "Summons more Bundimun"
   centaur_arrow:
     name: "Centaur Arrow"
     description: "Shoots a deadly projectile"
