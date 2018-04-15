@@ -7,7 +7,7 @@ acromantula_queen:
   default_drops: false
   interval: 5000
   potion_effects:
-    - type: SLOWNESS
+    - type: slow
       amplifier: 1
   triggers:
     interval:

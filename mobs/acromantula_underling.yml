@@ -6,7 +6,7 @@ acromantula_underling:
   health: 10
   default_drops: false
   potion_effects:
-    - type: SPEED
+    - type: speed
       amplifier: 2
   triggers:
     damage:

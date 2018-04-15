@@ -2,7 +2,7 @@
 
 crup_puppy:
   name: '&cCrup Puppy'
-  type: WOLF
+  type: wolf
   tamed: true
   baby: true
   interact_spell: crup_pet
@@ -10,7 +10,7 @@ crup_puppy:
 
 crup:
   name: '&cCrup'
-  type: WOLF
+  type: wolf
   tamed: true
   interact_spell: crup_pet
   default_drops: false

@@ -34,7 +34,6 @@ ashwinder_summon:
     cast:
       - class: SpawnEntity
   parameters:
-    set_target: true
     type: ashwinder
     target: self
     amount: 2

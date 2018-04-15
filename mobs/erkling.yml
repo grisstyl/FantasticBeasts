@@ -6,13 +6,12 @@ erkling:
   health: 30
   default_drops: false
   helmet: leaves
-  cast_requires_item: true
   drops:
     - erkling_dart_blower
   interval: 4000
   potion_effects:
-    - type: slowness
-      amplifier: 2
+    - type: slow
+      amplifier: 1
   triggers:
     interval:
       cast:

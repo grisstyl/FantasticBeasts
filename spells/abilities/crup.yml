@@ -16,7 +16,6 @@ crup_pet:
           color: c10f0f
           yFactor: 2
           xFactor: 2
-          enable_rotation: true
           offset: 0,1,0
       - class: EffectSingle
         location: origin
@@ -25,7 +24,6 @@ crup_pet:
           class: HeartEffect
           particle: heart
           particles: 25
-          enable_rotation: true
           offset: 0,1,0
   parameters:
     target: self

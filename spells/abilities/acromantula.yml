@@ -18,7 +18,6 @@ acromantula_summon:
     cast:
       - class: SpawnEntity
   parameters:
-    set_target: true
     entity_types:
       acromantula: 20
       acromantula_underling: 40

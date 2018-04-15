@@ -18,7 +18,6 @@ bundimun_summon:
     cast:
       - class: SpawnEntity
   parameters:
-    set_target: true
     entity_types:
       huge_bundimun: 10
       bundimun: 20
