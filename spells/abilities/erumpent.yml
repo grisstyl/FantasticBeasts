@@ -37,11 +37,7 @@ erumpent_attack:
   effects:
     cast:
       - class: EffectSingle
-        sound: entity_enderdragon_hurt
-        location: origin
-      - class: EffectSingle
-        sound: entity_generic_explode
-        sound_pitch: 2
+        sound: magic.zap_up
         location: origin
       - class: EffectSingle
         location: origin

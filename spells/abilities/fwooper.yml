@@ -24,8 +24,8 @@ fwooper_death:
   parameters:
     cooldown: 0
     delay: 8000
-    radius: 12
-    y_radius: 6
+    radius: 36
+    y_radius: 36
     target: self
     target_source: false
     message_type: title

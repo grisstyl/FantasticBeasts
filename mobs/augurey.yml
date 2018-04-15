@@ -3,10 +3,10 @@
 augurey:
   name: '&bAugurey'
   type: parrot
-  health: 10
+  health: 4
   default_drops: false
   triggers:
     death:
       cast:
-        none: 50
-        augurey_death: 50
+        none: 20
+        augurey_death: 80

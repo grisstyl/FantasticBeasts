@@ -3,10 +3,10 @@
 fwooper:
   name: '&dFwooper'
   type: parrot
-  health: 10
+  health: 4
   default_drops: false
   triggers:
     death:
       cast:
-        none: 50
-        fwooper_death: 50
+        none: 20
+        fwooper_death: 80
