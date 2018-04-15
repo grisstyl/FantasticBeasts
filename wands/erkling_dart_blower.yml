@@ -3,10 +3,13 @@ erkling_dart_blower:
   icon: stick
   lore:
     - '$description'
-  mana: 100
-  mana_regeneration: 25
+    - ''
+    - '$uses'
+  mana: 50
+  mana_regeneration: 10
   undroppable: false
   active_spell: erkling_dart
+  uses: 15
   spells:
     - erkling_dart
     - erkling_poisoned_dart
