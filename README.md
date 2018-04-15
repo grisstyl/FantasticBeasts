@@ -47,6 +47,17 @@ This configuration adds a couple of items which can be obtained by hunting down 
 * Erkling Dart Blower - Shoots five different darts - Obtained from an Erkling
 * Erumpent Horn - Explosive horn which can channel the Erumpent's power temporarily - Obtained rarely from Erumpent
 
+## Future
+
+I have a couple of ideas of what I want to do with this in the future.
+
+* Merge with BetterPotter
+* Balance updates
+* Configuration consistency
+* More mobs, duh
+* More items from mobs
+* Attributes for taming and stuff like that
+
 ## Need support?
 
 * For Magic support, visit the [RPG MC Central Discord](https://discord.gg/KG8Tr4b) or ask on the [Magic thread](https://www.spigotmc.org/threads/magic.28645/)
