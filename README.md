@@ -53,7 +53,8 @@ I have a couple of ideas of what I want to do with this in the future.
 
 * Merge with BetterPotter
 * Balance updates
-* Configuration consistency
+* Configuration consistency (cleanup parameters)
+* Documentation?
 * More mobs, duh
 * More items from mobs
 * Attributes for taming and stuff like that
